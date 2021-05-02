@@ -81,10 +81,24 @@ body {
   border-top-left-radius: 1rem;
   border-top-right-radius: 1rem;
 }
+.hero .hero-imgg {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
 
 .hero .hero-heading {
   padding-top: 1rem;
   font-size: 2rem;
+  color: var(--dark-gray);
+}
+.hero .hero-text {
+  padding-top: 1rem;
+  font-size: 1rem;
   color: var(--dark-gray);
 }
 
