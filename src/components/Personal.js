@@ -47,7 +47,7 @@ class Personal extends React.Component {
                   <i class="github icon" />
                 </button>
               </a>
-              <a href="https://instagram.com/shoaxb_">
+              <a href="/">
                 <button class="ui circular instagram icon button">
                   <i class="instagram icon"></i>
                 </button>
