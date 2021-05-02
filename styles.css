@@ -1,0 +1,127 @@
+:root {
+  --primary-color: #1d4ed8;
+  --dark-gray: #6b7280;
+  --off-white: #6b7280;
+  --nav-color: #1f2937;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #3b82f6;
+}
+/** navigation **/
+.navigation {
+  background-color: var(--nav-color);
+  color: white;
+  padding: 1rem;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  margin: auto;
+}
+
+.navigation .nav-pills {
+  text-align: right;
+}
+
+.navigation .link {
+  color: white;
+}
+
+.navigation .nav-brand {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.navigation .link-active {
+  font-weight: bold;
+  font-size: 1.01rem;
+}
+/** lists **/
+.list-non-bullet {
+  list-style: none;
+}
+
+.list-item-inline {
+  display: inline;
+  padding: 0rem 0.5rem;
+  float: right;
+}
+/*** links ***/
+
+.link {
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+}
+.link:hover {
+  opacity: 0.6;
+}
+.link-primary {
+  background-color: var(--primary-color);
+  border-radius: 0.5rem;
+  color: white;
+}
+
+.link-secondary {
+  color: var(--primary-color);
+  border-radius: 0.5rem;
+  border: 1px solid var(--primary-color);
+}
+
+/** header **/
+.hero {
+  padding: 2rem;
+  text-align: center;
+}
+
+.hero .hero-img {
+  max-width: 500px;
+  display: block;
+  margin: auto;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+.hero .hero-imgg {
+  max-width: 1000px;
+  display: block;
+  margin: auto;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+
+.hero .hero-heading {
+  padding-top: 1rem;
+  font-size: 2rem;
+  color: var(--dark-gray);
+}
+.hero .hero-text {
+  padding-top: 1rem;
+  font-size: 1rem;
+  color: var(--dark-gray);
+}
+
+.xds {
+  background-color: #c7d2fe;
+  /* // opacity: 90%; */
+  margin: auto;
+  border: solid black;
+}
+
+.pp {
+  max-width: 175px;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+  float: left;
+}
+
+.footer {
+  background-color: #1f2937;
+}
+
+.socialTile {
+  background-color: #d1d5db;
+  opacity: 20%;
+}

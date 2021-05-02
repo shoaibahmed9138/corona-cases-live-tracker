@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/corona-cases-live-tracker/static/js/main.40b08694.chunk.js",
+    "main.js.map": "/corona-cases-live-tracker/static/js/main.40b08694.chunk.js.map",
+    "runtime-main.js": "/corona-cases-live-tracker/static/js/runtime-main.05e857df.js",
+    "runtime-main.js.map": "/corona-cases-live-tracker/static/js/runtime-main.05e857df.js.map",
+    "static/js/2.14932053.chunk.js": "/corona-cases-live-tracker/static/js/2.14932053.chunk.js",
+    "static/js/2.14932053.chunk.js.map": "/corona-cases-live-tracker/static/js/2.14932053.chunk.js.map",
+    "index.html": "/corona-cases-live-tracker/index.html",
+    "static/js/2.14932053.chunk.js.LICENSE.txt": "/corona-cases-live-tracker/static/js/2.14932053.chunk.js.LICENSE.txt",
+    "static/media/cases.7bf3d583.png": "/corona-cases-live-tracker/static/media/cases.7bf3d583.png",
+    "static/media/distancing3.4108d119.png": "/corona-cases-live-tracker/static/media/distancing3.4108d119.png",
+    "static/media/highandlow.377844de.png": "/corona-cases-live-tracker/static/media/highandlow.377844de.png",
+    "static/media/naman.8407c013.jpeg": "/corona-cases-live-tracker/static/media/naman.8407c013.jpeg",
+    "static/media/shob.70bf9010.jpeg": "/corona-cases-live-tracker/static/media/shob.70bf9010.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05e857df.js",
+    "static/js/2.14932053.chunk.js",
+    "static/js/main.40b08694.chunk.js"
+  ]
+}
