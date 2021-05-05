@@ -10,56 +10,56 @@ class AreaWise extends React.Component {
             <div class="column ">
               <div class="ui segment xds">
                 <h4 align="center">East Zone</h4>
-                <h5 align="center">Active Cases = 24,664</h5>
+                <h5 align="center">Active Cases = 24,590</h5>
               </div>
             </div>
             <div class="column">
               <div class="ui segment xds">
                 <h4 align="center">West Zone</h4>
-                <h5 align="center">Active Cases = 19,848</h5>
+                <h5 align="center">Active Cases = 16,031</h5>
               </div>
             </div>
             <div class="column">
               <div class="ui segment xds">
                 <h4 align="center">South Zone</h4>
-                <h5 align="center">Active Cases = 25,701</h5>
+                <h5 align="center">Active Cases = 22,310</h5>
               </div>
             </div>
             <div class="column">
               <div class="ui segment xds">
                 <h4 align="center">Bommanahalli</h4>
-                <h5 align="center">Active Cases = 22,957</h5>
+                <h5 align="center">Active Cases = 24,254</h5>
               </div>
             </div>
           </div>
           <div class="column">
             <div class="ui segment xds">
               <h4 align="center">Yelahanka</h4>
-              <h5 align="center">Active Cases = 13,509</h5>
+              <h5 align="center">Active Cases = 13,758</h5>
             </div>
           </div>
           <div class="column">
             <div class="ui segment xds">
               <h4 align="center">Dasarahalli</h4>
-              <h5 align="center">Active Cases = 5,408</h5>
+              <h5 align="center">Active Cases = 5,570</h5>
             </div>
           </div>
           <div class="column">
             <div class="ui segment xds">
               <h4 align="center">Mahadevpura</h4>
-              <h5 align="center">Active Cases = 20,339</h5>
+              <h5 align="center">Active Cases = 21,315</h5>
             </div>
           </div>
           <div class="column">
             <div class="ui segment xds">
               <h4 align="center">RR Nagara</h4>
-              <h5 align="center">Active Cases = 15,942</h5>
+              <h5 align="center">Active Cases = 15,553</h5>
             </div>
           </div>
           <div class="column">
             <div class="ui segment xds">
               <h4 align="center">Outside Bengaluru</h4>
-              <h5 align="center">Active Cases = 15,344</h5>
+              <h5 align="center">Active Cases = 15,800</h5>
             </div>
           </div>
         </div>

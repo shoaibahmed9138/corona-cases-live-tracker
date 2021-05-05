@@ -12,7 +12,7 @@ class Header extends React.Component {
         <br />
         <a href="https://bbmp.gov.in/covid19.html">
           <p className="hero-text">
-            Click here for the source!(Latest date: <b>28-04-21</b>)
+            Click here for the source!(Latest date: <b>03-05-21</b>)
           </p>
         </a>
       </div>
